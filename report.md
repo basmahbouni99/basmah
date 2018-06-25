@@ -1,5 +1,6 @@
 # Around Fortnite…
 ## Who is the editor? (give short history of company)
+The editor is Epic Games
 ## Where is the team that has created the game based? (refere to other games developed by the team)
 ## Which game engine does it run on? Who owns the game engine?
 ## Which platforms does Fortnite runs on?
